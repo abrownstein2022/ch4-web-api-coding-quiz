@@ -68,6 +68,7 @@ Please refer to the screenshots and animation below to see how the application w
 ![website-image](./assets/images/ch4-screen8.png)
 ![website-image](./assets/images/ch4-screen10.png)
 ![website-image](./assets/images/ch4-screen11.png) 
+[ch4-js-coding-quiz-demo.mov.webm](https://user-images.githubusercontent.com/110709622/202874892-1af52b78-7230-45ba-a9fd-f82a9453e933.webm)
 
 ## Credits
 Alexis Brownstein, bootcamp instructor, TAs and Tutor 
